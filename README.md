@@ -1,0 +1,1 @@
+Hi, welcome to my Kalshi Forcast Github repository. In this project, I used 6 data sources to power three prediction model for highest temprature in Miami. Implementing a LSTM neural network model, I was able to accomplish a MSE score of 3.47.
